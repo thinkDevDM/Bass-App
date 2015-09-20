@@ -1,8 +1,6 @@
 # Bass-App
 A modern, responsive website for a music app.
 
-Note: I'm still in the process of adding media queries.
-
 This is my favorite project so far.  why?  Because it's the first one that I've developed from scratch (for the most part).
 It was a website project from CodeCademy's "Make A Website Projects".  However, the lesson gave only a few instructions on some
 essential content to include, leaving the project far from being finished (a bug in their program?).  So the rest was up to me.  
